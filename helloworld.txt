@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 hello
 Add a new line yes
 
+=======
+hello
+>>>>>>> 0ad703e6f27359a1e41110c1f34dbef3123f073e
